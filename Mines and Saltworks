@@ -1,0 +1,1201 @@
+{
+  "type" : "FeatureCollection",
+  "crs" :
+  {
+    "type" : "name",
+    "properties" :
+    {
+      "name" : "EPSG:3857"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          1576133.6738, 6445434.3089
+        ]
+      },
+      "properties" : {
+        "NAME" : "Lodenice",
+        "POINT_X" : 14.1586496900001,
+        "POINT_Y" : 49.9951405300001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places/118812",
+        "TIMEPERIOD" : "L"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          804248.990499999, 6503117.2524
+        ]
+      },
+      "properties" : {
+        "NAME" : "Mayen",
+        "POINT_X" : 7.22469160400004,
+        "POINT_Y" : 50.3270974600001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places/109150",
+        "TIMEPERIOD" : "RL"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          1555316.9869, 6317380.5887
+        ]
+      },
+      "properties" : {
+        "NAME" : "Modlesovice",
+        "POINT_X" : 13.9716502100001,
+        "POINT_Y" : 49.2499558500001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places/118847",
+        "TIMEPERIOD" : "HR"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          694495.361900002, 6574935.8165
+        ]
+      },
+      "properties" : {
+        "NAME" : "Stolberg-Breinigerberg",
+        "POINT_X" : 6.23875798300003,
+        "POINT_Y" : 50.7371850800001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          897867.3292, 6376877.4929
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : 8.06567944900007,
+        "POINT_Y" : 49.5976045600001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          898995.616, 6355540.293
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : 8.07581502200003,
+        "POINT_Y" : 49.4732115800001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          901331.6899, 6351349.8165
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : 8.09680033100006,
+        "POINT_Y" : 49.4487444700001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          1538743.366, 6765098.2428
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : 13.82276684,
+        "POINT_Y" : 51.80585976,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          1593069.5172, 6451718.6658
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : 14.31078696,
+        "POINT_Y" : 50.0314180100001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          1582267.9332, 6481939.5306
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : 14.21375468,
+        "POINT_Y" : 50.20549054,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          1557775.1795, 6539886.1326
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : 13.99373253,
+        "POINT_Y" : 50.5374949500001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          736867.336399999, 6414446.7715
+        ]
+      },
+      "properties" : {
+        "NAME" : "Newel-Butzweiler",
+        "POINT_X" : 6.61939190700002,
+        "POINT_Y" : 49.81585927,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          967992.377999999, 6329806.0242
+        ]
+      },
+      "properties" : {
+        "NAME" : "Nussloch",
+        "POINT_X" : 8.69562348100004,
+        "POINT_Y" : 49.3227629300001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places/118882",
+        "TIMEPERIOD" : "R"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          892094.679400001, 6366541.5805
+        ]
+      },
+      "properties" : {
+        "NAME" : "Ramsen",
+        "POINT_X" : 8.01382285400007,
+        "POINT_Y" : 49.5373871300001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places/109269",
+        "TIMEPERIOD" : "R"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          968410.535700001, 6399378.3422
+        ]
+      },
+      "properties" : {
+        "NAME" : "Felsberg",
+        "POINT_X" : 8.69937985500008,
+        "POINT_Y" : 49.7284386100001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places/118675",
+        "TIMEPERIOD" : "RL"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          896578.5869, 6376263.3801
+        ]
+      },
+      "properties" : {
+        "NAME" : "Gollheim",
+        "POINT_X" : 8.05410248000004,
+        "POINT_Y" : 49.5940287900001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places/109012",
+        "TIMEPERIOD" : "R"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          877136.206799999, 6374254.3139
+        ]
+      },
+      "properties" : {
+        "NAME" : "Imsbach",
+        "POINT_X" : 7.87944860800008,
+        "POINT_Y" : 49.5823288500001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places/109064",
+        "TIMEPERIOD" : "R"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          753615.784200002, 6547690.9497
+        ]
+      },
+      "properties" : {
+        "NAME" : "Iversheim",
+        "POINT_X" : 6.76984577300004,
+        "POINT_Y" : 50.5820351200001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places/109070",
+        "TIMEPERIOD" : "R"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          729321.4606, 6540287.2475
+        ]
+      },
+      "properties" : {
+        "NAME" : "Kall",
+        "POINT_X" : 6.55160615100005,
+        "POINT_Y" : 50.53978504,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places/109072",
+        "TIMEPERIOD" : "R"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          802643.8792, 6562278.0891
+        ]
+      },
+      "properties" : {
+        "NAME" : "Konigswinter-Drachenfels",
+        "POINT_X" : 7.21027264400004,
+        "POINT_Y" : 50.6651675100001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          728229.612300001, 6650752.0031
+        ]
+      },
+      "properties" : {
+        "NAME" : "Korschenbroich-Liedberg",
+        "POINT_X" : 6.54179791100006,
+        "POINT_Y" : 51.1662371900001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          807518.190000001, 6506335.1915
+        ]
+      },
+      "properties" : {
+        "NAME" : "Kottenheim",
+        "POINT_X" : 7.25405932300004,
+        "POINT_Y" : 50.3455483700001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places/109089",
+        "TIMEPERIOD" : "RL"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          816848.2403, 6513430.7477
+        ]
+      },
+      "properties" : {
+        "NAME" : "Kruft",
+        "POINT_X" : 7.33787259100007,
+        "POINT_Y" : 50.38620731,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places/109092",
+        "TIMEPERIOD" : "R"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          740498.303199999, 6549334.6487
+        ]
+      },
+      "properties" : {
+        "NAME" : "Mechernich-Katzvey",
+        "POINT_X" : 6.65200943600007,
+        "POINT_Y" : 50.5914099400001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          743977.753199998, 6331282.5747
+        ]
+      },
+      "properties" : {
+        "NAME" : "St. Barbara",
+        "POINT_X" : 6.68326586700005,
+        "POINT_Y" : 49.3314076600001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places/109303",
+        "TIMEPERIOD" : "R"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          794270.0328, 6555302.8459
+        ]
+      },
+      "properties" : {
+        "NAME" : "Wachtberg-Berkum",
+        "POINT_X" : 7.13504910200004,
+        "POINT_Y" : 50.6254338000001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          46269.0751000009, 6598712.6996
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : 0.415642173000038,
+        "POINT_Y" : 50.872167453,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          28767.2487000003, 6630500.3757
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : 0.25842059200005,
+        "POINT_Y" : 51.0520186090001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -6142.89009999856, 6635894.1893
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -0.0551825209999493,
+        "POINT_Y" : 51.0824671390001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          56755.2884999998, 6614305.5744
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : 0.509841431000041,
+        "POINT_Y" : 50.9604772110001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -253483.9822, 6689228.9555
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -2.27708535499994,
+        "POINT_Y" : 51.3824689760001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -61673.2164000012, 6906178.1198
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -0.554019928999935,
+        "POINT_Y" : 52.5826969460001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -77750.443599999, 6846850.1527
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -0.698444117999941,
+        "POINT_Y" : 52.257669413,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -20312.3128999993, 6636424.1092
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -0.182468610999933,
+        "POINT_Y" : 51.0854575010001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -441259.065699998, 6800835.535
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -3.96389762999996,
+        "POINT_Y" : 52.0039269860001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -293851.400400002, 6671758.9117
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -2.63971204199993,
+        "POINT_Y" : 51.2844174040001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -332648.441300001, 6910828.4769
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -2.98823179099998,
+        "POINT_Y" : 52.6080726640001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -428618.98, 7044624.3043
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -3.85034980799998,
+        "POINT_Y" : 53.331880337,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -347004.918400001, 7025328.041
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -3.11719821899993,
+        "POINT_Y" : 53.22823893,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -293212.697500002, 6749428.9385
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -2.63397447699992,
+        "POINT_Y" : 51.7187400150001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -291074.7918, 6761473.0504
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -2.61476934299998,
+        "POINT_Y" : 51.7857190040001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -285703.642299999, 6771060.9225
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -2.56651948599995,
+        "POINT_Y" : 51.8389675080001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -283903.1664, 6778094.8378
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -2.55034553599995,
+        "POINT_Y" : 51.8779920110001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -483772.815200001, 7055047.7801
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -4.34580513899994,
+        "POINT_Y" : 53.3877609480001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -231727.764699999, 6550767.8302
+        ]
+      },
+      "properties" : {
+        "NAME" : "Shale",
+        "POINT_X" : -2.08164592799994,
+        "POINT_Y" : 50.5995825530001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -170123.699099999, 6992351.7495
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -1.52824719099993,
+        "POINT_Y" : 53.0505390280001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -256054.4188, 6689955.9573
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -2.30017597999995,
+        "POINT_Y" : 51.3865447690001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -233151.988000002, 6552315.5558
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -2.09443994299994,
+        "POINT_Y" : 50.6084067510001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -18284.9197000004, 6635904.8986
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -0.164256227999942,
+        "POINT_Y" : 51.0825275740001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -1775.43899999931, 6634912.1111
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -0.0159490399999527,
+        "POINT_Y" : 51.0769247170001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -76845.7602000013, 6847678.1003
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -0.690317208999943,
+        "POINT_Y" : 52.2622218070001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -60796.6422999986, 6907231.8563
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -0.546145529999933,
+        "POINT_Y" : 52.5884481840001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -43633.2593999989, 6929454.1308
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -0.391964237999957,
+        "POINT_Y" : 52.709560466,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          32979.3101999983, 6628995.2476
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : 0.296258184000067,
+        "POINT_Y" : 51.04351846,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          60828.5738000013, 6612555.9736
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : 0.546432376000041,
+        "POINT_Y" : 50.9505767480001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          50617.7413000017, 6597195.433
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : 0.454706907000059,
+        "POINT_Y" : 50.863565513,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -346889.7916, 7027091.8846
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -3.11616401699996,
+        "POINT_Y" : 53.2377230800001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -332177.919599999, 6912148.7538
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -2.98400502199996,
+        "POINT_Y" : 52.615274373,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -428035.756900001, 7046156.556
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -3.84511062599995,
+        "POINT_Y" : 53.340099385,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -439885.600200001, 6801619.627
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -3.95155957899993,
+        "POINT_Y" : 52.0082628800001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -291573.835000001, 6750480.774
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -2.61925232399995,
+        "POINT_Y" : 51.7245933780001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -289783.0876, 6762665.0055
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -2.60316576699995,
+        "POINT_Y" : 51.7923422320001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -284540.471500002, 6772133.8931
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -2.55607054499996,
+        "POINT_Y" : 51.8449225890001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -282425.0623, 6779073.3743
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -2.53706750099997,
+        "POINT_Y" : 51.8834182970001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -292055.2093, 6672832.7388
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -2.62357658299993,
+        "POINT_Y" : 51.2904503660001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" :
+      {
+        "type" : "Point",
+        "coordinates" : [
+          -552353.042800002, 6523981.0761
+        ]
+      },
+      "properties" : {
+        "NAME" : null,
+        "POINT_X" : -4.96187180599998,
+        "POINT_Y" : 50.4465983850001,
+        "CLASS" : "Mine",
+        "PLEIADESURL" : "http://pleiades.stoa.org/places",
+        "TIMEPERIOD" : null
+      }
+    }
+  ]
+}

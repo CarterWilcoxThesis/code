@@ -1,0 +1,89 @@
+<html>
+  <head>
+    <title>Projection of Roman Brooches</title>
+    <style>
+      body { margin: 0; }
+      canvas { width: 100%; height: 100% }
+    </style>
+  </head>
+  <body>
+    <script src="three.js-master/build/three.js"></script>
+    <script>
+    // ----- CAMERA ------
+      // Create the scene and a camera to view it
+      var scene = new THREE.Scene();
+
+       // Specify the portion of the scene visiable at any time (in degrees)
+      var fieldOfView = 75;
+
+      // Specify the camera's aspect ratio
+      var aspectRatio = window.innerWidth / window.innerHeight;
+
+      // Specify the near and far clipping planes. Only objects
+      // between those planes will be rendered in the scene
+      // (these values help control the number of items rendered
+      // at any given time)
+      var nearPlane = 0.1;
+      var farPlane = 1000;
+
+      // Use the values specified above to create a camera
+      var camera = new THREE.PerspectiveCamera(
+        fieldOfView, aspectRatio, nearPlane, farPlane
+      );
+
+      // Finally, set the camera's position in the z-dimension
+      camera.position.z = 5;
+
+      // ----- RENDERER ------
+
+      // Create the canvas with a renderer and tell the
+      // renderer to clean up jagged aliased lines
+      var renderer = new THREE.WebGLRenderer({antialias: true});
+
+      // Specify the size of the canvas
+      renderer.setSize( window.innerWidth, window.innerHeight );
+
+      // Add the canvas to the DOM
+      document.body.appendChild( renderer.domElement );
+
+    // ----- TEXTURE LOADER -----
+      // Create a texture loader so we can load the image file
+      var loader = new THREE.TextureLoader();
+
+      // Specify the path to an image
+      var url = 'https://s3.amazonaws.com/duhaime/blog/tsne-webgl/assets/cat.jpg';
+
+      // Load an image file into a MeshLambert material
+      var material = new THREE.MeshLambertMaterial({
+        map: loader.load(url)
+      });
+
+      // ----- CREATE MESH -----
+      // create a plane geometry for the image with a width of 10
+      // and a height that preserves the image's aspect ratio
+      var geometry = new THREE.PlaneGeometry(10, 10*.75);
+
+      // combine the image geometry and material into a mesh
+      var mesh = new THREE.Mesh(geometry, material);
+
+      // set the position of the image mesh in the x,y,z dimensions
+      mesh.position.set(0,0,0)
+
+      // add the image to the scene
+      scene.add(mesh);
+      renderer.render( scene, camera );
+
+      // ----- LIGHT SOURCE -----
+      // Add a point light with #fff color, .7 intensity, and 0 distance
+      var light = new THREE.PointLight(0xffffff, .7, 0);
+
+      // Specify the light's position in the x, y, and z dimensions
+      light.position.set(1, 1, 100);
+
+      // Add the light to the scene
+      scene.add(light)
+
+
+    </script>
+  </body>
+</html>
